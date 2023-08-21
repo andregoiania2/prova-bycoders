@@ -48,7 +48,7 @@ Existe apenas duas pagina Html, uma que o usuário escolhe o arquivo em sua máq
 
 #Instalando em ambiente local
 <br>
-1 - Como já fizemos o clone do projeto para instalar o back-end, vamos apenas compilar o projeto, para gerar o artefato <b>desafio-dev-andrelino-front.jar</b>. Já dentro da pasta <b>/desafio-dev/front-end/desafio-dev-andrelino-front</b> no terminal digite o comando <b>mvn clean install</b>
+1 - Como já fizemos o clone do projeto para instalar o back-end, vamos apenas compilar o projeto, para gerar o artefato <b>desafio-dev-andrelino-front.jar</b>. Já dentro da pasta <b>/desafio-dev/front-end/</b> no terminal digite o comando <b>mvn clean install</b>
 <br>
 2 - Com o comando acima executado após obter sucesso, vai ser criado uma pasta <b>target</b>, vamos agora subir a API, entre na pasta no terminal e execute o comando <b>java -jar desafio-dev-andrelino-front.jar </b> 
 <br>
